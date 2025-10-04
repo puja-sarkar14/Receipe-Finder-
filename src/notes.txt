@@ -1,0 +1,13 @@
+const [state , setState]=useState(initialvalue);  //useState
+
+useEffect(()=>{
+  //
+  return()=>{
+  //                      
+  }
+
+  },[dependencies])
+
+const memoizedvalue=useMemo(()=>{},[])
+
+const [state,dispatch]=useReducer(reducer,initialstate)
